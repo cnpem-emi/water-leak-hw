@@ -1,2 +1,2 @@
-# pcb-hw
-PCB repository template
+# Water leak detector
+Leak sensor module, capacitance based.
